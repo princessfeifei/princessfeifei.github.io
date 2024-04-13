@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year undergraduate student from [School of Business](https://bs.csu.edu.cn)[Central South University](https://csu.edu.cn)I'm a handsome boy.
+I am a junior student at the [Business School](https://bs.csu.edu.cn/) of [Central South University](https://www.csu.edu.cn/), majoring in information management and information systems. Professional courses include database principles and applications, operations research, data structures, business data analysis, system design and development, etc. Master programming languages such as C++, Python, Java, and C. Proficient in using Python and Excel for data analysis, and have a certain understanding of data analysis software such as Tableau and SPSS.
 
 A data-driven personal website
 ======
