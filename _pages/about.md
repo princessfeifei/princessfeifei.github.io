@@ -11,10 +11,10 @@ I am a junior student at the [Business School](https://bs.csu.edu.cn/) of [Centr
 
 Personal honors and awards
 ======
-1.National Third Prize in National College Student Mathematics Competition
-2.National third prize in the National College Student Data Analysis Practice Competition
-3.Third Prize in Hunan Province in the "Xuechuang Cup" College Student Innovation and Entrepreneurship Competition
-4."Internet +" Innovation and Entrepreneurship Competition School-Level Second Prize
+1. National Third Prize in National College Student Mathematics Competition
+1. National third prize in the National College Student Data Analysis Practice Competition
+1. Third Prize in Hunan Province in the "Xuechuang Cup" College Student Innovation and Entrepreneurship Competition
+1. "Internet +" Innovation and Entrepreneurship Competition School-Level Second Prize
 
 Getting started
 ======
